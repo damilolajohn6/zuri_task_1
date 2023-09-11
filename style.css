@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+div {
+    margin: 20px;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+span {
+    font-weight: bold;
+    color: #007BFF;
+}
